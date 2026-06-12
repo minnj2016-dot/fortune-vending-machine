@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "id": "20260612095713-cjkd",
+      "title": "배경은 `#0A0A14` Deep Void를 사용했는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-12T09:57:13.680Z",
+      "status": "done",
+      "sessionDir": "2026-06-12T09-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-12T09-55/_report.md\n- Designer: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로,\n- Writer: Designer가 제시한 비주얼 컨셉('The Glitch Shock' 레이아웃)에 맞춰, 최종 영상 제작에 필요한 대본 스크립트의 후킹 포인트\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로, 고CTR을 극대화하는 유튜브 썸네일 디자인 에셋(레이아웃 및 스타일 가이드) 제작을 즉",
+      "completedAt": "2026-06-12T09:58:48.149Z"
+    },
+    {
+      "id": "20260612095713-nnic",
+      "title": "Neon Cyan(`#00FFFF`)이 핵심 요소(텍스트, 강조선)에 적용되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-12T09:57:13.680Z",
+      "status": "done",
+      "sessionDir": "2026-06-12T09-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-12T09-55/_report.md\n- Designer: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로,\n- Writer: Designer가 제시한 비주얼 컨셉('The Glitch Shock' 레이아웃)에 맞춰, 최종 영상 제작에 필요한 대본 스크립트의 후킹 포인트\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로, 고CTR을 극대화하는 유튜브 썸네일 디자인 에셋(레이아웃 및 스타일 가이드) 제작을 즉",
+      "completedAt": "2026-06-12T09:58:48.149Z"
+    },
+    {
+      "id": "20260612095713-w5tn",
+      "title": "Glitch Accent(`FF00FF`)가 대비 효과를 위해 전략적으로 사용되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-12T09:57:13.680Z",
+      "status": "done",
+      "sessionDir": "2026-06-12T09-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-12T09-55/_report.md\n- Designer: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로,\n- Writer: Designer가 제시한 비주얼 컨셉('The Glitch Shock' 레이아웃)에 맞춰, 최종 영상 제작에 필요한 대본 스크립트의 후킹 포인트\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로, 고CTR을 극대화하는 유튜브 썸네일 디자인 에셋(레이아웃 및 스타일 가이드) 제작을 즉",
+      "completedAt": "2026-06-12T09:58:48.149Z"
+    },
+    {
+      "id": "20260612095713-qdta",
+      "title": "메인 텍스트는 두껍고 각진 폰트로 'Glitch Outline' 처리가 되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-12T09:57:13.680Z",
+      "status": "done",
+      "sessionDir": "2026-06-12T09-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-12T09-55/_report.md\n- Designer: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로,\n- Writer: Designer가 제시한 비주얼 컨셉('The Glitch Shock' 레이아웃)에 맞춰, 최종 영상 제작에 필요한 대본 스크립트의 후킹 포인트\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로, 고CTR을 극대화하는 유튜브 썸네일 디자인 에셋(레이아웃 및 스타일 가이드) 제작을 즉",
+      "completedAt": "2026-06-12T09:58:48.149Z"
+    },
+    {
+      "id": "20260612095713-fdj2",
+      "title": "전체 레이아웃에서 시각적 혼란(Glitch)과 명확한 메시지(해방)의 대비가 극대화되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-12T09:57:13.680Z",
+      "status": "done",
+      "sessionDir": "2026-06-12T09-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-12T09-55/_report.md\n- Designer: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로,\n- Writer: Designer가 제시한 비주얼 컨셉('The Glitch Shock' 레이아웃)에 맞춰, 최종 영상 제작에 필요한 대본 스크립트의 후킹 포인트\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 스크립트와 확정된 시각적 사양('The Glitch Core', 'Deep Void/Neon Cyan')을 기반으로, 고CTR을 극대화하는 유튜브 썸네일 디자인 에셋(레이아웃 및 스타일 가이드) 제작을 즉",
+      "completedAt": "2026-06-12T09:58:48.149Z"
+    }
+  ]
+}
